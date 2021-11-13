@@ -1,0 +1,26 @@
+.heading{
+    width: 100%;
+    font-size: small;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.span1{
+    font-size: medium;
+    color: hotpink;
+
+}
+
+.copyright{
+    position: fixed;
+    bottom: 0px;
+    background-color: lightslategray;
+    color: linen;
+    width: 100%;
+    text-align: center;
+}
+
+canvas{
+    border: olive 5px solid;
+    border-radius: 20px;
+}
